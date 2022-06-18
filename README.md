@@ -2,7 +2,7 @@
 A light-hearted, friendly but slightly bold business card designed by using React as the base framework!
 
 <div align="center">
-<img src="https://github.com/paryswest/business-card-react/blob/a2848f0cf19e7800618685b36af1ade7d97a68ee/React-Business-Photo.png" height:"600px" width="100%" >
+<img src="https://github.com/paryswest/business-card-react/blob/a2848f0cf19e7800618685b36af1ade7d97a68ee/React-Business-Photo.png" height:"500px" width="100%" >
 </div>  
 
 ## How It's Made:
